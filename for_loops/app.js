@@ -9,4 +9,7 @@
 // console.log("9");
 // console.log("10");
 
-// For Loop that outputs 10 numbers in console.log
+// For Loop that outputs 1-10 numbers in console.log
+for (let num = 1; num <= 10; num++) {
+  console.log(num);
+}
