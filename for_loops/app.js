@@ -27,6 +27,12 @@
 // }
 
 // For loop that starts at 10 and multiplies by ten each time, until reaching 1000
-for (let i = 10; i <= 1000; i *= 10) {
-  console.log(i);
-}
+// for (let i = 10; i <= 1000; i *= 10) {
+//   console.log(i);
+// }
+
+//example of an infinite loop
+// DO NOT RUN THIS!!!!!
+// for (let i = 20; i >= 0; i++) {
+//   console.log(i);
+// }
