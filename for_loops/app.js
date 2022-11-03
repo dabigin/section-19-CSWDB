@@ -10,6 +10,23 @@
 // console.log("10");
 
 // For Loop that outputs 1-10 numbers in console.log
-for (let num = 1; num <= 10; num++) {
-  console.log(num);
+// for (let num = 1; num <= 10; num++) {
+//   console.log(num);
+// }
+
+// For Loop that outputs 0-20 by adding 2 to i variable and printing in console
+//
+// for (let i = 1; i <= 20; i += 2) {
+//   console.log(i);
+// }
+
+// For loop that counts down from 100 by 10 each time
+//
+// for (let i = 100; i >= 0; i -= 10) {
+//   console.log(i);
+// }
+
+// For loop that starts at 10 and multiplies by ten each time, until reaching 1000
+for (let i = 10; i <= 1000; i *= 10) {
+  console.log(i);
 }
